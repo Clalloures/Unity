@@ -2,7 +2,7 @@
 Meus estudos de Unity
 
 ## Conteúdo
-* [Projeto 1](#projeto1:)
+* [Projeto 1](#projeto-1-:)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
