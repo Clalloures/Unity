@@ -13,5 +13,5 @@ Meus estudos de Unity
 ## Projeto 1
 
 Desenvolvimento de um jogo onde tenho que recolher moedas ao longo do caminho.
-![Tela jogo](./images/tela_jogo.png)
+![Tela jogo](./Images/tela_jogo.PNG)
 
