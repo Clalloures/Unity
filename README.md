@@ -1,5 +1,5 @@
 # Unity
-Meus estudos de ocasionais de Unity
+Meus estudos de Unity
 
 <p align="center">
 <img height="500" src="https://media.giphy.com/media/b7lp44pNiRqsU/giphy.gif">
